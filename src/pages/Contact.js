@@ -1,4 +1,3 @@
-import styles from '../my-style.module.css'; 
 import FormExample from '../Formcode';
 import imgxlg from '../assets/images/1000x1000.jpg';
 const Contact = () => {

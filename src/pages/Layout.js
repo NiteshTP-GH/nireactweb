@@ -1,4 +1,4 @@
-import { Outlet, Link } from "react-router-dom"; 
+import { Outlet } from "react-router-dom"; 
 import { Navbar, Container, NavDropdown, Nav } from 'react-bootstrap';
 import logoimg from '../assets/images/logo.png'; 
 import Example from '../Modelpopup';
