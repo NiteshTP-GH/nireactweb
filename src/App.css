@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+
+.web-text-red {
+  color:red;
+}
+
+body {
+  background-color: #f0ee70;
+}
+
+.header-shadow {
+  box-shadow: 0 2px 4px 0 rgb(0 0 0 / 10%);
+}
