@@ -8,11 +8,11 @@ const Layout = () => {
       <>
         <section className="sticky-top bg-white header-shadow">
         <div className="container">
-          <div className="row py-3">
+          <div className="row">
             <div className="col-md-12">
             <Navbar bg="light" expand="lg">
               <Container>
-                <Navbar.Brand href="#home" className="col-md-4">
+                <Navbar.Brand href="#home" className="col-8 col-md-4">
                 <img
                   className="img-fluid"
                   src={logoimg}
@@ -35,7 +35,7 @@ const Layout = () => {
                   <Nav.Link href="/contact">Contact</Nav.Link>
                   </Nav>
                 </Navbar.Collapse>
-                <div className="col-md-2">
+                <div className="d-none d-md-block col-md-2">
                 <Example />
                 </div>
               </Container>
