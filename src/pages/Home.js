@@ -1,5 +1,5 @@
 import "../my-sass.scss";
-import banner from '../assets/images/1920x600.jpg';
+import banner from '../assets/images/slide-01.jpg';
 import cardimg from '../assets/images/350x200.jpg';
 import cardimglg from '../assets/images/1000x500.jpg';
 
