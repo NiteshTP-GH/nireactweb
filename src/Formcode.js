@@ -1,7 +1,6 @@
 import { Row, Col, Form, Button, InputGroup } from 'react-bootstrap';
 import * as yup from 'yup';
 import { Formik } from 'formik';
-
 // const { Formik } = formik;
 
 const schema = yup.object().shape({
@@ -148,4 +147,3 @@ function FormExample() {
 }
 
 export default FormExample
-
