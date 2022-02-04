@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/nireactweb.git/static/css/main.45919023.css",
+    "main.js": "/nireactweb.git/static/js/main.0d3d2744.js",
+    "static/media/1920x600.jpg": "/nireactweb.git/static/media/1920x600.d217e6bfed9424d7c993.jpg",
+    "static/media/1000x500.jpg": "/nireactweb.git/static/media/1000x500.b21702a3cda2e645548f.jpg",
+    "static/media/1000x1000.jpg": "/nireactweb.git/static/media/1000x1000.ffd8a37ff0fdb177be28.jpg",
+    "static/media/350x200.jpg": "/nireactweb.git/static/media/350x200.5181c3c3f7592360a8d6.jpg",
+    "index.html": "/nireactweb.git/index.html",
+    "main.45919023.css.map": "/nireactweb.git/static/css/main.45919023.css.map",
+    "main.0d3d2744.js.map": "/nireactweb.git/static/js/main.0d3d2744.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45919023.css",
+    "static/js/main.0d3d2744.js"
+  ]
+}
