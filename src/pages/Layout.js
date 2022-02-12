@@ -31,7 +31,7 @@ const Layout = () => {
                       <NavDropdown.Divider />
                       <NavDropdown.Item href="#action/3.4">Separated link</NavDropdown.Item>
                     </NavDropdown>
-                  <Nav.Link href="/blogs">Blog</Nav.Link>
+                  <Nav.Link href="/blogs">Blogs</Nav.Link>
                   <Nav.Link href="/contact">Contact</Nav.Link>
                   </Nav>
                 </Navbar.Collapse>
