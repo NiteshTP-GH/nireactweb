@@ -1,6 +1,11 @@
 import FormExample from '../Formcode';
 import imgxlg from '../assets/images/1000x1000.jpg';
+import React, { useEffect } from 'react';
+
 const Contact = () => {
+  useEffect(() => {
+    document.title = 'Contact Us';
+});  
     return (
       <>
         <section className="bg-light">

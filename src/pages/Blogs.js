@@ -1,5 +1,11 @@
 import { Row, Col, Nav, Tab } from 'react-bootstrap';
+
+import React, { useEffect } from 'react';
 const Blogs = () => {
+
+useEffect(() => {
+    document.title = 'Blog';
+});
 
     // const ftStyle = {
     //     color: "#fff",

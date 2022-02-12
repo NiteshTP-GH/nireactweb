@@ -1,6 +1,9 @@
 import { Table, Tabs, Tab } from 'react-bootstrap';
+import React, { useEffect } from 'react';
 const About = () => {
-
+  useEffect(() => {
+    document.title = 'About Us';
+});
     // const ftStyle = {
     //     color: "#fff",
     //     backgroundColor: 'blue',

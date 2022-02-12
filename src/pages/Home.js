@@ -5,8 +5,11 @@ import cardimglg from '../assets/images/1000x500.jpg';
 
 
 import { Card, Button, Carousel, Accordion } from 'react-bootstrap';
-
+import React, { useEffect } from 'react';
 const Home = () => {
+    useEffect(() => {
+        document.title = 'Home';
+    });    
     return (
         <>
  <Carousel>
